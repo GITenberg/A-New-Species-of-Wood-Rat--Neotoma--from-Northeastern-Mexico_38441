@@ -1,0 +1,32 @@
+_repo: A-New-Species-of-Wood-Rat--Neotoma--from-Northeastern-Mexico_38441
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alvarez, Ticul
+    aliases:
+    - Solorzano, Ticul Alvarez
+    - Solórzano, Ticul Alvarez
+    birthdate: 1935
+    deathdate: 2001
+    gutenberg_agent_id: '32403'
+    url: http://www.gutenberg.org/2009/agents/32403
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2011-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Wood rats'
+title: A New Species of Wood Rat (Neotoma) from Northeastern Mexico
+url: http://www.gutenberg.org/ebooks/38441
